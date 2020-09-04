@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="gutenberg_project">Gutenberg Project</string>
+    <string name="a_social_cataloging">A social cataloging website that allows you to freely search its database of books, annotations, and reviews.</string>
+    <string name="fiction">Fiction</string>
+    <string name="drama">Drama</string>
+    <string name="humor">Humor</string>
+    <string name="politics">Politics</string>
+    <string name="philosophy">Philosophy</string>
+    <string name="history">History</string>
+    <string name="adventure">Adventure</string>
+
+    <string name="msg_please_Wait">Please wait</string>
+    <string name="notification_channel_id">com.ssb.apps.bookapp</string>
+    <string name="msg_internet_connection">No Internet connection available, please check your connection.</string>
+    <string name="str_error">Error</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="str_ok">Ok</string>
+</resources>
